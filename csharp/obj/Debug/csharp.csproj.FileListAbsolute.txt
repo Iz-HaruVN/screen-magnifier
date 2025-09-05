@@ -1,0 +1,10 @@
+D:\new cpp\screen magnifier\csharp\csharp\obj\Debug\csharp.csproj.AssemblyReference.cache
+D:\new cpp\screen magnifier\csharp\csharp\obj\Debug\ScreenMagnifier.Form1.resources
+D:\new cpp\screen magnifier\csharp\csharp\obj\Debug\csharp.Properties.Resources.resources
+D:\new cpp\screen magnifier\csharp\csharp\obj\Debug\csharp.csproj.GenerateResource.cache
+D:\new cpp\screen magnifier\csharp\csharp\obj\Debug\csharp.csproj.CoreCompileInputs.cache
+D:\new cpp\screen magnifier\csharp\csharp\bin\Debug\csharp.exe.config
+D:\new cpp\screen magnifier\csharp\csharp\bin\Debug\csharp.exe
+D:\new cpp\screen magnifier\csharp\csharp\bin\Debug\csharp.pdb
+D:\new cpp\screen magnifier\csharp\csharp\obj\Debug\csharp.exe
+D:\new cpp\screen magnifier\csharp\csharp\obj\Debug\csharp.pdb
